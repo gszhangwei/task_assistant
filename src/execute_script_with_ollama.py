@@ -18,12 +18,16 @@ def analyze_and_execute(input_text):
     llm = Ollama(model="llama3.1")
     generator_type = determine_generator_type(llm, input_text)
     script_name = generate_script_name(llm, generator_type, input_text)
+    print("Script_name: ", script_name)
     return execute_script_if_valid(generator_type, script_name)
 
 
 def determine_generator_type(llm, input_text):
     generator_type_prompt = create_generator_type_prompt(input_text)
+    print("Generator_type_prompt: ", generator_type_prompt)
     generator_type_response = llm.invoke(generator_type_prompt)
+    print("Generator_type_response: ", generator_type_response)
+    print("")
     return generator_type_response.strip()
 
 
