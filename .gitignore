@@ -16,8 +16,8 @@ env/
 .ollama/
 
 # IDE配置
-.vscode/
 .idea/
+.idea/workspace.xml
 
 # 操作系统生成的文件
 .DS_Store
