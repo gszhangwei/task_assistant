@@ -23,8 +23,8 @@
 
 1. 克隆项目仓库：
    ```
-   git clone [git@github.com:gszhangwei/task_assistant.git]
-   cd [task_assistant]
+   git clone git@github.com:gszhangwei/task_assistant.git
+   cd task_assistant
    ```
 
 2. 创建并激活虚拟环境（可选）：
