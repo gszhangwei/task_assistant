@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc34b081-5ff1-4bba-bfc8-df6c5f9a1aa1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/task_assistant.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/execute_script_with_ollama.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prompt_generator_factory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prompt_generators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/python_scripts/assign_access_for_dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/python_scripts/generate_random_num_from_1_100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/python_scripts/get_current_date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/python_scripts/sum_1_100.py" afterDir="false" />
-    </list>
+    <list default="true" id="cc34b081-5ff1-4bba-bfc8-df6c5f9a1aa1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

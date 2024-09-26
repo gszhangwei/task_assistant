@@ -40,7 +40,7 @@
 
 4. 安装并设置Ollama：
    - 访问 [Ollama官网](https://ollama.ai/) 下载并安装Ollama
-   - 确保Ollama服务正在运行
+   - ``ollama run llama3.1``确保Ollama服务正在运行
 
 5. 配置项目：
    - 检查并更新 `config.py` 文件中的配置信息
